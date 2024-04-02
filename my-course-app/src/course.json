@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "course_name": "Introduction to React",
+    "course_description": "Learn the basics of React, a popular JavaScript library for building user interfaces."
+  },
+  {
+    "id": 2,
+    "course_name": "Advanced CSS Techniques",
+    "course_description": "Explore advanced CSS techniques and best practices for creating beautiful and responsive web designs."
+  },
+  {
+    "id": 3,
+    "course_name": "Database Management with SQL",
+    "course_description": "Master the fundamentals of SQL for effective database management and querying."
+  },
+  {
+    "id": 4,
+    "course_name": "Python Programming",
+    "course_description": "Get started with Python programming language, covering basics to advanced concepts."
+  },
+  {
+    "id": 5,
+    "course_name": "Machine Learning Fundamentals",
+    "course_description": "Learn the basics of machine learning, including algorithms, models, and applications."
+  },
+  {
+    "id": 6,
+    "course_name": "Web Development with Node.js",
+    "course_description": "Build dynamic web applications using Node.js, Express, and MongoDB."
+  },
+  {
+    "id": 7,
+    "course_name": "JavaScript Fundamentals",
+    "course_description": "Learn the core concepts of JavaScript programming language for web development."
+  },
+  {
+    "id": 8,
+    "course_name": "Data Structures and Algorithms",
+    "course_description": "Explore essential data structures and algorithms for writing efficient code."
+  },
+  {
+    "id": 9,
+    "course_name": "Frontend Web Development",
+    "course_description": "Master HTML, CSS, and JavaScript to become a proficient frontend developer."
+  },
+  {
+    "id": 10,
+    "course_name": "React Native Development",
+    "course_description": "Build cross-platform mobile applications using React Native framework."
+  }
+]
